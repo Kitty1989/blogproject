@@ -1,2 +1,2 @@
 # blogproject
-Blog Project for Udacity
+Updated blog Project for Udacity
